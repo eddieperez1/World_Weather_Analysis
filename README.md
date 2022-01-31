@@ -1,5 +1,5 @@
 # World_Weather_Analysis
-This project was written in python using Jupyter Notebooks. config.py stores the API keys used in this project as strings in variables weather_key and g_key. APIs are [openweathermap](https://home.openweathermap.org/) and [Google Maps API](https://developers.google.com/maps). config.py is needed to run the code in this project.
+This project was written in Python using Jupyter Notebooks. config.py stores the API keys used in this project as strings in variables weather_key and g_key. APIs are [openweathermap](https://home.openweathermap.org/) and [Google Maps API](https://developers.google.com/maps). config.py is needed to run the code in this project.
 
 ## Overview of Repository
 
